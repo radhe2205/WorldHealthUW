@@ -1,8 +1,8 @@
-"numpy"
-"opencv-python"
-"opencv-contrib-python"
-"matplotlib"
-"pandas"
-"ipywidgets"
-"pandas-compat"
-"seaborn"
+numpy
+opencv-python
+opencv-contrib-python
+matplotlib
+pandas
+ipywidgets
+pandas-compat
+seaborn
