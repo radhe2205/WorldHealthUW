@@ -58,7 +58,7 @@ def select_pair_country(country="India"):
 
 countryWidget = SelectMultiple(
     options=dataframe['Country'].unique(),
-    value=['India'],
+    value=['India', 'Iceland'],
     description='Country',
     disabled=False
 )

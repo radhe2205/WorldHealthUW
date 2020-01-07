@@ -16,7 +16,7 @@ drawable_cols = dataframe.drop(["Country", "Status"], axis=1).keys()
 
 featureWidget = SelectMultiple(
     options=drawable_cols,
-    value=['Life expectancy '],
+    value=['Life expectancy ', 'Adult Mortality'],
     description='Features',
     disabled=False
 )
